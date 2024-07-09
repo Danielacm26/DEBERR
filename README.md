@@ -1,19 +1,19 @@
-##Aplicación de Resultados de Conductores
+## Aplicación de Resultados de Conductores
 Esta es una aplicación JavaFX que muestra los resultados de conductores para diferentes años. La aplicación permite a los usuarios seleccionar un año de un ComboBox y luego muestra los resultados correspondientes de los conductores en un TableView.
 
-##Características
+## Características
 - ComboBox para seleccionar el año.
 - TableView para mostrar los resultados de los conductores.
 -  Columnas para el nombre del conductor, número de victorias, puntos totales clasificación.
 
-##Requisitos
+## Requisitos
 - JDK 8 o posterior.
 - JavaFX SDK (incluido en JDK 11 y posteriores).
 
-##resultado
+## resultado
 [![Whats-App-Image-2024-07-08-at-10-08-50-PM.jpg](https://i.postimg.cc/6617vCyQ/Whats-App-Image-2024-07-08-at-10-08-50-PM.jpg)](https://postimg.cc/RqKVr61r)
 
-##codigo
+## codigo
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
